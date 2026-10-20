@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Python Quest: Code the World",
+  "description": "An interactive fantasy adventure game teaching Python programming from beginner to advanced with real in-browser execution, coding puzzles, and 12 distinct worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
