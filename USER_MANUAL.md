@@ -1,4 +1,4 @@
-# Python Quest: Code the World — User Manual
+# Python Quest: Code the World — User Manual 
 
 This manual explains how to use the Python Quest learning-game experience shown in the Google AI Studio preview. Exact menus and features may change as the application develops.
 
