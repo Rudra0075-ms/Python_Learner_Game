@@ -1,4 +1,4 @@
-# 🧙 Python Quest: Code the World
+# 🧙 Python Quest: Code the World!
 
 > **Learn Python by going on an adventure.** Write code, solve missions, and progress through a game-inspired world.
 
